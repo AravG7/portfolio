@@ -87,20 +87,20 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>AI & AUTOMATION</h3>
-              <h4>Workflow Intelligence for Organizations</h4>
+              <h3>DLT & BLOCKCHAIN</h3>
+              <h4>Scalable Ledger Architectures</h4>
               <p>
-                AI specialist helping organizations automate workflows—internal ops
-                and customer-facing—so teams ship faster with less manual work.
+                Lead Engineer specializing in Hyperledger Fabric and permissioned networks. 
+                Designing immutable supply chains and high-throughput transaction systems.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">LLMs &amp; agents</div>
-                <div className="what-tags">Workflow design</div>
-                <div className="what-tags">RAG &amp; retrieval</div>
-                <div className="what-tags">Evals &amp; guardrails</div>
-                <div className="what-tags">Integrations</div>
-                <div className="what-tags">Product strategy</div>
+                <div className="what-tags">Hyperledger Fabric</div>
+                <div className="what-tags">Smart Contracts</div>
+                <div className="what-tags">Rust</div>
+                <div className="what-tags">Distributed Systems</div>
+                <div className="what-tags">Solidity</div>
+                <div className="what-tags">Consensus Algos</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -124,21 +124,20 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BUILD &amp; SCALE</h3>
-              <h4>Shipping AI in Production</h4>
+              <h3>MOBILE & FULL STACK</h3>
+              <h4>Android, iOS, & Scalable Web</h4>
               <p>
-                I build the systems behind it: APIs, data, voice/real-time, and
-                full-stack products—production-ready, not slide decks.
+                Building high-performance mobile apps with Flutter and Swift, and scalable web platforms with Next.js. 
+                Expert in designing high-concurrency microservices and RAG pipelines.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Python</div>
-                <div className="what-tags">REST &amp; real-time APIs</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Cloud &amp; infra</div>
+                <div className="what-tags">Next.js 15</div>
+                <div className="what-tags">Node.js 22</div>
+                <div className="what-tags">Flutter / Swift</div>
+                <div className="what-tags">GKE / AWS</div>
+                <div className="what-tags">Java 21</div>
+                <div className="what-tags">Python 3.12</div>
               </div>
               <div className="what-arrow"></div>
             </div>

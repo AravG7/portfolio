@@ -6,11 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am currently co-founder of CallHQ.ai, building real-time voice AI for
-          businesses. I am a technologist at heart with strong business judgment—
-          I enjoy going from product strategy to hands-on engineering. My background
-          spans leadership at Adobe, founding Broki and CallHQ, and shipping
-          full-stack products end to end.
+          I am a Scalable Systems Architect, Android & iOS Developer, and Full Stack Engineer with expertise in Distributed Ledger Technology (DLT) and Generative AI orchestration. With advanced proficiency in Java 21, Rust, and Swift, I specialize in designing high-concurrency microservices and RAG pipelines using Next.js 15 and Node.js 22, while orchestrating GKE and AWS infrastructure to deliver enterprise-grade reliability.
         </p>
       </div>
     </div>

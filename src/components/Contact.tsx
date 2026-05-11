@@ -11,27 +11,27 @@ const Contact = () => {
             <h4>Connect</h4>
             <p>
               <a
-                href="https://www.linkedin.com/in/akashrmalhotra/"
+                href="https://www.linkedin.com/in/arav-gupta-285115261"
                 target="_blank"
                 rel="noreferrer"
                 data-cursor="disable"
               >
-                LinkedIn — akashrmalhotra
+                LinkedIn — arav-gupta
               </a>
             </p>
             <h4>Education</h4>
             <p>
-              PGPWE (MBA), Indian Institute of Management, Lucknow — 2021–2023
+              B.E. in Computer Science, Visvesvaraya Technological University (VTU) — 2023–2027
             </p>
-            <p>
-              B.Tech Computer Science, Manav Rachna Educational Institutions —
-              2009–2013
-            </p>
+            <h4>Certifications & Training</h4>
+            <p>Placement Training (60 Hours) — Genesis Training</p>
+            <p>Java, SQL, & NoSQL Database Design — Vtricks Technologies</p>
+            <p>Innovation & Design Thinking — COMED KARES</p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/akashrmalhotra"
+              href="https://github.com/AravG7"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -40,7 +40,7 @@ const Contact = () => {
               GitHub <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/akashrmalhotra/"
+              href="https://www.linkedin.com/in/arav-gupta-285115261"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -49,16 +49,16 @@ const Contact = () => {
               LinkedIn <MdArrowOutward />
             </a>
             <a
-              href="https://www.youtube.com/@Leftbraincoder"
+              href="https://leetcode.com/u/aravg7"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
               className="contact-social"
             >
-              YouTube <MdArrowOutward />
+              LeetCode <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com/leftbraincoder/"
+              href="https://www.instagram.com/arav_g7?igsh=YWxxa2FybnExdjVh"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -69,7 +69,7 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Akash Malhotra</span>
+              Designed and Developed <br /> by <span>Arav Gupta</span>
             </h2>
             <h5>
               <MdCopyright /> 2026
