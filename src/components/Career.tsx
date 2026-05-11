@@ -5,51 +5,38 @@ const Career = () => {
     <div className="career-section section-container">
       <div className="career-container">
         <h2>
-          My career <span>&</span>
+          My journey <span>&</span>
           <br /> experience
         </h2>
         <div className="career-info">
           <div className="career-timeline">
             <div className="career-dot"></div>
           </div>
+          {/* Professional training and education take priority for a student profile */}
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Freelance Software Engineer</h4>
-                <h5>Web & Mobile Development</h5>
+                <h4>Computer Science Student</h4>
+                <h5>Sambhram (Affiliated to VTU)</h5>
               </div>
-              <h3>2024–PRESENT</h3>
+              <h3>2023–2027</h3>
             </div>
             <p>
-              Architecting end-to-end solutions using Next.js 15, Flutter, and Supabase. 
-              Automating workflows with Gemini 1.5 Pro and Claude 3.5 APIs, 
-              enhancing operational efficiency for diverse clients.
+              Pursuing a B.E. in Computer Science at Visvesvaraya Technological University. 
+              Focusing on full-stack development, database design, and machine learning architectures.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Lead Engineer & Architect</h4>
-                <h5>Rakt-Connect (Blockchain)</h5>
+                <h4>Lead Engineer & Project Architect</h4>
+                <h5>Rakt-Connect (Group Project)</h5>
               </div>
               <h3>2026</h3>
             </div>
             <p>
-              Led the architecture of a permissioned blockchain network using Hyperledger Fabric. 
-              Optimized system throughput for 1,000+ concurrent requests on GKE and automated donor verification via smart contracts.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Sambhram Institute of Tech</h4>
-                <h5>VTU Bengaluru</h5>
-              </div>
-              <h3>2023-27</h3>
-            </div>
-            <p>
-              Pursuing B.E. in Computer Science. Focused on Distributed Systems, 
-              Microservices, and Generative AI orchestration.
+              Served as lead engineer for a blockchain-powered blood supply chain system. 
+              Architected the system using Hyperledger Fabric to ensure secure and transparent donor verification.
             </p>
           </div>
         </div>
